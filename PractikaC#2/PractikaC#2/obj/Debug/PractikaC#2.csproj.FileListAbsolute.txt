@@ -1,0 +1,6 @@
+C:\Users\kostu\OneDrive\Рабочий стол\Практика\PractikaC#2\PractikaC#2\obj\Debug\PractikaC#2.csproj.AssemblyReference.cache
+C:\Users\kostu\OneDrive\Рабочий стол\Практика\PractikaC#2\PractikaC#2\obj\Debug\AddCustomerWindow.g.cs
+C:\Users\kostu\OneDrive\Рабочий стол\Практика\PractikaC#2\PractikaC#2\obj\Debug\MainWindow.g.cs
+C:\Users\kostu\OneDrive\Рабочий стол\Практика\PractikaC#2\PractikaC#2\obj\Debug\App.g.cs
+C:\Users\kostu\OneDrive\Рабочий стол\Практика\PractikaC#2\PractikaC#2\obj\Debug\PractikaC#2_MarkupCompile.cache
+C:\Users\kostu\OneDrive\Рабочий стол\Практика\PractikaC#2\PractikaC#2\obj\Debug\PractikaC#2_MarkupCompile.lref
